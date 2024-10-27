@@ -8,10 +8,8 @@ description = "A very basic automoderator to get things done quickly."
 
 Basic Automoderator lets you quickly set up _basic_ automoderation, without much fuss. For that reason, its
 overall customizability is quite limited. If you would like a more detailed configuration, please use the
-[Advanced Automoderator](/docs/moderation/advanced-automoderator/overview).
-
-You configure violation thresholds and their expiry for predefined rules. These thresholds define when an offending user
-will be muted, kicked, or banned; a warning and a subsequent deletion of the offending message are always issued.
+[Advanced Automoderator](/docs/moderation/advanced-automoderator/ove
+to DO Do
 
 ## Configuration
 
